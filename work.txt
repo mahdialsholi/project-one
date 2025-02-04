@@ -1,5 +1,7 @@
 create page sttings	
 Create page home 	 
-Create page video\
+Create page video
 Create dashbaord
 Create page login
+Create page video
+ 
