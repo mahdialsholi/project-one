@@ -1,2 +1,2 @@
 create page sttings	
-	 
+Create page home 	 
