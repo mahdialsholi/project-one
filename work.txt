@@ -1,3 +1,2 @@
-create page sttings
-Create git home
-Task
+create page sttings	
+	 
