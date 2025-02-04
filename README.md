@@ -20,5 +20,6 @@ git add
 
 ## How Add Image :
 <div>
-<img src='https://nordicapis.com/wp-content/uploads/A-Short-Guide-What-Types-of-Apps-Can-Be-Built-With-React.png' width='150' height='200'>
+<img src='https://nordicapis.com/wp-content/uploads/A-Short-Guide-What-Types-of-Apps-Can-Be-Built-With-React.png' width='300' height='200'>
 </div>
+
