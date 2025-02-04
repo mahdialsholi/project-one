@@ -4,4 +4,4 @@ Create page video
 Create dashbaord
 Create page login
 Create page video
- 
+Create page forget password
